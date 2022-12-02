@@ -5,7 +5,10 @@
     text-align: center;
 }
 
-
+/* h2 {
+    color: white;
+    border: 1 px solid red;
+} */
 
 #board {
     position: relative;
